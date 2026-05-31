@@ -1,0 +1,30 @@
+{
+  "name": "nkj-skills",
+  "id": "nkj-skills",
+  "owner": {
+    "name": "NikelChieh"
+  },
+  "metadata": {
+    "description": "NikelChieh 的自建 Claude Code skill 合集，每个 skill 独立成 plugin，可按需逐个安装。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "design-checklist",
+      "source": "./design-checklist",
+      "description": "针对研究/实验/技术方案，生成结构化的核心问题清单（设计决策分析）",
+      "version": "0.1.0",
+      "author": {
+        "name": "NikelChieh"
+      },
+      "keywords": [
+        "planning",
+        "design",
+        "decision-making",
+        "checklist",
+        "research"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

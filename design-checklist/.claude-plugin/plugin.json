@@ -1,0 +1,17 @@
+{
+  "name": "design-checklist",
+  "description": "针对研究/实验/技术方案，生成结构化的核心问题清单（设计决策分析）",
+  "version": "0.1.0",
+  "author": {
+    "name": "NikelChieh"
+  },
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "design",
+    "decision-making",
+    "checklist",
+    "research"
+  ],
+  "skills": ["./skills/design-checklist"]
+}
